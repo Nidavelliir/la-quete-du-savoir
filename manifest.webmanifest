@@ -1,7 +1,7 @@
 {
  "id": "/la-quete-du-savoir/app",
  "name": "La Quête du Savoir",
- "short_name": "Quête du Savoir",
+ "short_name": "La Quête du Savoir",
  "description": "Jeu éducatif gratuit pour les enfants : réponds aux questions, combats et capture les Velkis !",
  "start_url": "/la-quete-du-savoir/",
  "scope": "/la-quete-du-savoir/",
