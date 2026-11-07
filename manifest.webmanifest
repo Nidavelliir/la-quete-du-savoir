@@ -1,0 +1,39 @@
+{
+ "id": "/la-quete-du-savoir/app",
+ "name": "La Quête du Savoir",
+ "short_name": "Quête du Savoir",
+ "description": "Jeu éducatif gratuit pour les enfants : réponds aux questions, combats et capture les Velkis !",
+ "start_url": "/la-quete-du-savoir/",
+ "scope": "/la-quete-du-savoir/",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0a1854",
+ "theme_color": "#0a1854",
+ "lang": "fr",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
